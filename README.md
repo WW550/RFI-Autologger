@@ -1,6 +1,7 @@
 # RFI-Autologger
 
 Version 1.2.1
+<img width="1042" height="822" alt="image" src="https://github.com/user-attachments/assets/4ff9cc8d-4e9d-41ac-97b8-5151791a5861" />
 
 ## Overview
 
